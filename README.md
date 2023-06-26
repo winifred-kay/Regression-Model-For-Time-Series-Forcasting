@@ -10,12 +10,12 @@ The model should be able to predict the unit sales for thousands of items sold a
 
 # About dataset
 The prediction model is designed on the a train data with colmuns below
- 0   id           int64  
- 1   date         object 
- 2   store_nbr    int64  
- 3   family       object 
- 4   sales        float64
- 5   onpromotion   int64  
+ 1 id           
+ 2 date        
+ 3 store_nbr    
+ 4 family       
+ 5 sales       
+ 6 onpromotion    
 
 # Setup/Tools
 To run this file, you need python installed with scikit learn and pandas.
